@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+
+    <!--mainPage-->
+    <string name="myPortfolio">My Portfolio</string>
+    <string name="resume">Resume</string>
+    <string name="activity">Activity</string>
+    <string name="name">Ioun Nirach</string>
+
+    <string name="description">imageButton</string>
+
+    <!--resumePage-->
+    <string name="resumeHeading">RESUME</string>
+    <string name="download">Download</string>
+
+    <!--activityPage-->
+    <string name="activityHeading">ACTIVITY</string>
+    <string-array name="myActivity">
+        <item>KMUTT REGISTER PROJECT 2018</item>
+        <item>UNITY GAME PROJECT 2018</item>
+        <item>KMUTT OPEN HOUSE 2019</item>
+        <item>TECH ASA 8 2019</item>
+        <item>IDEA CAMP 8 2019</item>
+        <item>KMUTT FRESHY NIGHT 2019</item>
+        <item>STICKER LINE PROJECT 2019</item>
+        <item>ANIMATION PROJECT 2019</item>
+        <item>NEXUS GEO APP CHALLENGE 2020</item>
+        <item>NATIONAL SOFTWARE CONTEST(NSC) 2021</item>
+    </string-array>
+
+    <string name="role">หน้าที่ : </string>
+    <string name="responsibility">ความรับผิดชอบ : </string>
+
+    <string name="a1">UX/UI designer</string>
+    <string name="a2">ออกเเบบเอพพลิเคชัน KMUTT REGISTER สำหรับการเเก้ปัญหาการเข้าสู่ระบบลงทะเบียนเรียน เนื่องจากมีผู้ล็อคอินเข้าสู่ระบบมากเกินไปภายในเวลาอันสั้น
+         ทำให้เซิฟเวอร์ของทางมหาลัยล่ม โดยจะเเอพนี้จะสามารถให้นักศึกษาลงทะเบียนเรียนเเบบ offline ได้ก่อนวันลงทะเบียนเรียนจริง เพื่อลดเวลาการเข้าสู่ระบบในระยะเวลานานเเละทำให้ปัญหาเรื่องคนเเย่งเข้าสู่ระบบลดน้อยลง</string>
+
+    <string name="b1">Work alone / All work</string>
+    <string name="b2">โปรเจคเดี่ยวจบปี 1 สร้างเกมสามมิติด้วยโปรเเกรม Unity เเละเขียนคำสั่งด้วยภาษา C# โดยเกมที่พัฒนาเป็นเกมจิตวิทยาผจญภัยที่เราต้องคอยหลบหลีกศัตรูที่จะมาโจมตีตามทางที่ผ่านเเละตอบคำถามของ
+        npc จำนวน 4 ตัว โดยจุดมุ่งหมายของเกมคือการประเมินตนเองด้วยหลักการ MBTI ทำให้การจบเกมมีเเตกต่างกันออกไปถึง 16 เเบบตามเเต่ละผู้เล่นจะเลือกตอบคำถามเพื่อประเมินว่าตนเองเป็นคนประเภทไหนผ่านการเล่นเกม
+        สามารถรับชม Trailer เเละดาวโหลดเกมเล่นได้ที่ลิ้งด้านล่างครับ</string>
+
+    <string name="c1">Supervisor</string>
+    <string name="c2">ทำหน้าที่คอยควบคุมการทำระบบไฟ Interactive tertist ตรวจจับความเคลื่อนไหวเเละเเสดงผลผ่านไฟ led โดยควบคุมการทำงานผ่านโปรเเกรม Touchdesigner เเละ
+        Resolume Arena สำหรับใช้ในการโปรโมตสาขาเทคโนโลยีมีเดียในงาน KMUTT Open House 2019</string>
+
+    <string name="d1">Electrical department</string>
+    <string name="d2">เป็นผู้ช่วยวางระบบไฟฟ้าใหม่ให้กับศูนย์พัฒนาเด็กเล็กบ้านเนินทราย เทศบาลตำบลนายาง คอยตรวจสอบการเดินไฟฟ้าเเละเช็คสถานะไฟฟ้า รวมถึงอำนวยความสะดวกด้านเเสงเเละไฟฟ้าให้กับกลุ่ม Tech asa ที่ไปร่วมปรับปรุงสถานที่ให้กับศูนย์พัฒนาเด็กเล็ก</string>
+
+    <string name="e1">Staff Lab IOT</string>
+    <string name="e2">เป็นพี่สอน IOT ให้กับน้องๆม.5-ม.6 ระยะเวลา 3 วัน 2 คืนในค่าย Idea Camp 8 โดยสอนให้น้องๆทำความรู้จักกับ IOT เเละทดลองทำจริงโดยใช้ Arduino เเละ Esp8266 เพื่อเป็นพื้นฐานในการพัฒนาโปรเจค IOT ต่างๆ รวมถึงสอน
+        การลิ้งอุปกรณ์ฮาร์ทเเวร์ต่างๆให้เชื่อมต่อกับโทรศัพท์ผ่านทางระบบเครือข่ายด้วย Blink เพื่อนำไปต่อยอดเพิ่มเติม</string>
+
+    <string name="f1">Graphic Designer / Hardware</string>
+    <string name="f2">จัดทำงานคอนเสิร์ตประจำปีของมหาลัยเทคโนโลยีพระจอมเกล้าธนบุรี ปี 2019 โดยรับหน้าที่เป็นผู้ออกเเบบกราฟฟิกบนจอของงานคอนเสิร์ต ช่วยสร้างกล่องไฟ LED สำหรับใช้เป็นจอ Pixel ในงานคอนเสิร์ต
+        รวมถึงการช่วยประกอบโครงสร้างของเวที เดินสายไฟสำหรับใช้เป็นหน้าจอคอนเสิร์ตในงาน เเละเป็น staff ควบคุมดูเเลนักเเสดง นักร้องเเละผู้เข้าชมในงาน</string>
+
+    <string name="g1">Work alone / All work</string>
+    <string name="g2">โปรเจคงาน Animation ด้วยการสร้าง Animation line sticker จำนวน 16 ตัว เเละผ่านการอัพโหลดลงระบบ line creators market สามารถไปอุดหนุน
+        สติกเกอร์ไลน์ของผมได้ที่ลิ้งใต้ล่างนี้ครับ</string>
+
+    <string name="h1">Work alone / All work</string>
+    <string name="h2">งานเดี่ยวโปรเจคปี 2 สร้าง Animation เเละ Effect ด้วยโปรเเกรม Adobe Animate เเละ After Effect ออกเเบบฉากเเละตัวละครด้วยโปรเเกรม Clip Studio เเละ Adobe illastator
+        ออกเเบบงานภายใต้คอนเซ็ปการอนุรักษ์สิ่งเเวดล้อมที่เเฝงไปกับชีวิตประจำวันของเเต่ละคน เพื่อบ่งบอกให้รู้ว่าการอนุรักษ์สิ่งเเวดล้อมไม่ได้ไกลจากตัวของเราเลยเเม้เเต่น้อย สามารถรับชมวีดีโอได้ที่ลิ้งด้านล่างนี้ครับ</string>
+
+    <string name="i1">competitor</string>
+    <string name="i2">เป็น 1 ในทีม 3 คนรับหน้าที่คอยคุมงานเเละออกเเบบเเอพพลิเคชันในการเเข่งขันออกเเบบเเอพพลิเคชันในงาน GEO APP CHALLENGE ได้รับรางวัลรองชนะเลิศอันดับที่ 1 โดยเเก้ปัญหาระบบขนส่งสินค้าที่ต้องผ่านเหตุภัยพิบัติ
+        การเลี่ยงเส้นทางที่เกิดเหตุภัยพิบัติ รวมถึงการเพิ่มเเนวทางการขนส่งสินค้าเเบบใหม่ให้กับบริษัท Kerry Express</string>
+
+    <string name="j1">competitor</string>
+    <string name="j2">เป็นหัวหน้าโปรเจคการเเข่งขันทีม 3 คนในโครงการ NSC ในหมวดหมู่สุขภาพเเละการเเพทย์ ชื่อโครงการของทีมคือเเอพพลิเคชันควบคุมอุณหภูมิเเละอุปกรณ์ประคบร้อนเเบบพกพา ผ่านรอบคัดเลือกสู่รอบเเสดงผลงาน
+        โดยเป็นการทำอุปกรณ์ประคบร้อนที่สามารถผลิตความร้อนได้ในตัวผ่านเเบตเตอรี่ สามารถพกพาได้ สามารถควบคุมอุณหภูมิความร้อนเเละระยะเวลาในการประคบร้อนที่ต้องการผ่านเเอพพลิเคชันบนมือถือได้ เเละมีการให้คำเเนะนำสำหรับการประคบร้อน
+        ตามอาการต่างๆรวมถึงสามารถตั้งค่าการประคบร้อนเเบบอัตโนมัติตามการรักษาตามอาการ เพื่ออำนวยความสะดวกให้เเก่บุคคลทั่วไปหรือผู้ป่วยที่จำเป็นต้องใช้ถุงประคบร้อนในที่สาธารณะหรือที่ๆห่างไกลกับปลั็กไฟ</string>
+
+    <string name="linkLine">https://store.line.me/stickershop/product/11467186/en</string>
+    <string name="linkFreshy">https://fb.watch/3h19jWoyRp/</string>
+    <string name="linkGame">https://drive.google.com/drive/folders/1tWz8O9hI3dEyHcmSU_-4hXlzPIEGEnf8?usp=sharing</string>
+    <string name="linkAnimation">https://drive.google.com/drive/folders/1oY_TRZLJUfZT-N5dwJlZC0vIUNPYW-oN?usp=sharing</string>
+    <string name="link0"></string>
+
+    <!--historyPage-->
+    <string name="historyHeading">HISTORY</string>
+
+    <string name="info">INFORMATION</string>
+    <string name="myInfo">NAME : Ioun Nirach</string>
+    <string name="myInfo1">NICKNAME : Om</string>
+    <string name="myInfo2">GENDER : male Age : 21</string>
+    <string name="myInfo3">ADDRESS : 55/230 Bang Kruai Nonthaburi 11130</string>
+    <string name="myInfo4">ERLISTMENT : Exempt from military service</string>
+    <string name="myInfo5">DRIVING : Have a car driving license</string>
+
+    <string name="hobby">HOBBIES</string>
+    <string name="myHobby">Music</string>
+    <string name="myHobby1">Drawing</string>
+    <string name="myHobby2">Coding</string>
+
+    <string name="contact">CONTACT</string>
+    <string name="myContact">FACEBOOK : I-oun Nirach</string>
+    <string name="myContact1">LINE : iounom</string>
+    <string name="myContact2">MAIL : iounnirach15@gmail.com</string>
+    <string name="myContact3">TELL : 090-423-7440</string>
+
+</resources>
